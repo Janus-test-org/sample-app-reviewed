@@ -22,3 +22,4 @@ npm test
 
 MIT. See `LICENSE`.
 SPIKE-3: spike3/review, pushed with the App's token.
+SPIKE-3: a second line, as the reviewer asked.
